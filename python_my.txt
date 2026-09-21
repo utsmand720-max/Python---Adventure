@@ -1,6 +1,7 @@
 I want to code every single day consistency
 
-And here is my main wishlist in 3 month:
+And here is my main wishlist in 1 year:
 
 - I build simple program with python
 - I build script or program for ethical hack or cybersecurity with python
+- I build script for arduino uno project
